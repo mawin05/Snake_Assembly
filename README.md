@@ -13,3 +13,6 @@ This is a simple implementation of the Snake game written in assembly language.
 ## How to play
 Move the snake by pressing W,A,S,D. Watch out for walls and your tail. Press ESC to quit.
 
+<div>
+    <img src="MEDIA/ss.png" alt="ScreenShot">
+<div>
